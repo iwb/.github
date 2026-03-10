@@ -1,7 +1,5 @@
 # Institute for Machine Tools and Industrial Management (*iwb*)
 
-**Technical University of Munich**
-
 Founded in 1875, the *iwb* is one of the largest research institutions for production technology in Germany. This GitHub organization hosts open-source code and datasets provided by individual researchers to accompany their publications.
 
 ### Useful Links
